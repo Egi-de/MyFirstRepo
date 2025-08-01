@@ -1,0 +1,7 @@
+Brief Introduction About Myself
+
+My name is Egide Mbonigaba, a dedicated student currently enrolled in the ALX Software Engineering Program. 
+I am passionate about technology and innovation, and I am learning through the Pathway Program to build solutions that create meaningful change in my community.
+
+Through this journey, I am gaining valuable skills in web development, digital tools, and entrepreneurship.
+My goal is to use what I learn to empower others—especially young women in East Africa—by creating platforms that offer access to education, mentorship, and opportunity.
